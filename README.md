@@ -2,6 +2,9 @@
 
 ### Free
 
+- Microsoft Edge
+  - Also enable [Focus Mode](https://learn.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/experimental-features/focus-mode) in Edge Browser.
+
 - [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
 
 - Test Explorer (Unit Tests)  
